@@ -1,0 +1,10 @@
+{
+    "recommended": {
+        "total": 9550,
+        "affected": 3608
+    },
+    "custom": {
+        "total": 6852,
+        "affected": 1582
+    }
+}
